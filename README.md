@@ -6,12 +6,12 @@ Systems Engineering student with practical experience in distributed systems, lo
 
 **Lenguages**
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,mongo" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,mongo,fastapi" />
 
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,maven,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,maven,linux,pytest" />
 
 **Extras**
 
@@ -25,6 +25,9 @@ Systems Engineering student with practical experience in distributed systems, lo
 | [Stella_Project](https://github.com/david-beltrang/Stella_Project) | JavaFX desktop application with layered architecture and 89 automated tests | Java, H2, JavaFX |
 | [AI-Introduction](https://github.com/david-beltrang/AI-Introduction) | A search, first-order logic resolution, Bayesian networks, and supervised machine learning | Prolog, Python |
 | [Operating_Systems](https://github.com/david-beltrang/Operating_Systems) | Concurrent programming with POSIX threads (pthreads), IPC, OpenMP, and a reservation system using FIFOs and Unix signals | C |
+| [neuralhome](https://github.com/LOUWPII/neuralhome) | Memory palace 3D con RAG (PDF → embeddings → LLM), tutor Socrático, quizzes y flashcards generados por IA — colaboración en equipo | Python, FastAPI, React, Supabase/pgvector |
+
+> *En neuralhome participé como colaborador: diseñé e implementé los servicios de generación de quizzes, flashcards e infografías, el rediseño del sistema de prompts del tutor Socrático, y la suite de tests + CI del backend (36 tests, GitHub Actions).*
 
 ## Stats<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=david-beltrang&show_icons=true&theme=transparent&hide_border=true" />
