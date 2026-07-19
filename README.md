@@ -20,12 +20,12 @@ Systems Engineering student with practical experience in distributed systems, lo
 ## Featured Projects
 | Project | Description | Stack |
 |---|---|---|
+| [neuralhome](https://github.com/LOUWPII/neuralhome) | Memory palace 3D con RAG (PDF → embeddings → LLM), tutor Socrático, quizzes y flashcards generados por IA — colaboración en equipo | Python, FastAPI, React, Supabase/pgvector |
 | [Distributed_Systems](https://github.com/david-beltrang/Distributed_Systems) | Distributed system of 3 nodes with ZeroMQ + gRPC, 54 tests with CI | Python, pyzmq, gRPC |
-| [Genome_Data_Structures](https://github.com/david-beltrang/Genome_Data_Structures) | Linear data structures, Huffman trees, and graph algorithms applied to genomic analysis | C++ |
 | [Stella_Project](https://github.com/david-beltrang/Stella_Project) | JavaFX desktop application with layered architecture and 89 automated tests | Java, H2, JavaFX |
+| [Genome_Data_Structures](https://github.com/david-beltrang/Genome_Data_Structures) | Linear data structures, Huffman trees, and graph algorithms applied to genomic analysis | C++ |
 | [AI-Introduction](https://github.com/david-beltrang/AI-Introduction) | A search, first-order logic resolution, Bayesian networks, and supervised machine learning | Prolog, Python |
 | [Operating_Systems](https://github.com/david-beltrang/Operating_Systems) | Concurrent programming with POSIX threads (pthreads), IPC, OpenMP, and a reservation system using FIFOs and Unix signals | C |
-| [neuralhome](https://github.com/LOUWPII/neuralhome) | Memory palace 3D con RAG (PDF → embeddings → LLM), tutor Socrático, quizzes y flashcards generados por IA — colaboración en equipo | Python, FastAPI, React, Supabase/pgvector |
 
 
 ## Stats<p align="center">
