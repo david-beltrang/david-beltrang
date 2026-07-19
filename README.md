@@ -18,6 +18,7 @@ Systems Engineering student with practical experience in distributed systems, lo
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Featured Projects
+
 | Project | Description | Stack |
 |---|---|---|
 | [neuralhome](https://github.com/LOUWPII/neuralhome) | Memory palace 3D con RAG (PDF → embeddings → LLM), tutor Socrático, quizzes y flashcards generados por IA — colaboración en equipo | Python, FastAPI, React, Supabase/pgvector |
@@ -29,8 +30,7 @@ Systems Engineering student with practical experience in distributed systems, lo
 
 
 ## Stats<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=david-beltrang&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-beltrang&layout=compact&theme=transparent&hide_border=true" />
+[![](https://github-readme-streak-stats.herokuapp.com/?user=david-beltrang&theme=blueberry)](https://github.com/david-beltrang)
 </p>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
