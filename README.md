@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=75AEE2&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;My+name+is+David+Beltrán+Gómez;I'm+a+Systems+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=75AEE2&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;My+name+is+David+Beltrán+Gómez;I'm+a+Systems+Engineer)](https://git.io/typing-svg).
 
-Systems Engineering student with practical experience in distributed systems, low-level programming (C/C++), and data structures. Passionate about Artificial Intelligence and logical reasoning, with experience in search algorithms, first-order logic, and supervised machine learning. All projects in this profile are supported by automated test suites and CI pipelines.
+Systems Engineering student with practical experience in distributed systems, low-level programming (C/C++), and data structures. Main focus on Artificial Intelligence and logical reasoning — search algorithms, first-order logic, and supervised machine learning. All projects in this profile are supported by automated test suites and CI pipelines.
 
 ## Stack
 
