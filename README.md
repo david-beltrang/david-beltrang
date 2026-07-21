@@ -28,6 +28,7 @@ Systems Engineering student with practical experience in distributed systems, lo
 | [AI-Introduction](https://github.com/david-beltrang/AI-Introduction) | A search, first-order logic resolution, Bayesian networks, and supervised machine learning | Prolog, Python |
 | [Operating_Systems](https://github.com/david-beltrang/Operating_Systems) | Concurrent programming with POSIX threads (pthreads), IPC, OpenMP, and a reservation system using FIFOs and Unix signals | C |
 
+> **Note:** neuralhome is a team project. My contribution: full design and implementation of the quiz, flashcards, and infographic services, a redesign of the Socratic tutor's prompting system, and the backend test suite + CI (36 tests).
 
 ## Stats<p align="center">
 [![](https://github-readme-streak-stats.herokuapp.com/?user=david-beltrang&theme=blueberry)](https://github.com/david-beltrang)
@@ -40,3 +41,4 @@ Systems Engineering student with practical experience in distributed systems, lo
 <img src="https://img.shields.io/badge/linkedin:  David Beltran Gomez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <br>
+</div>
