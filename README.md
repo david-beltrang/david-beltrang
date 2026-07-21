@@ -27,6 +27,7 @@ Systems Engineering student with practical experience in distributed systems, lo
 | [Genome_Data_Structures](https://github.com/david-beltrang/Genome_Data_Structures) | Linear data structures, Huffman trees, and graph algorithms applied to genomic analysis | C++ |
 | [AI-Introduction](https://github.com/david-beltrang/AI-Introduction) | A search, first-order logic resolution, Bayesian networks, and supervised machine learning | Prolog, Python |
 | [Operating_Systems](https://github.com/david-beltrang/Operating_Systems) | Concurrent programming with POSIX threads (pthreads), IPC, OpenMP, and a reservation system using FIFOs and Unix signals | C |
+| [Javex_Projects](https://github.com/david-beltrang/Javex_Projects) | VEX V5 robotics competition code (VEX U category) — 2 seasons, from a sensorless autonomous routine to a custom PID controller class with IMU-based heading correction | C++, VEXcode, PROS |
 
 > **Note:** neuralhome is a team project. My contribution: full design and implementation of the quiz, flashcards, and infographic services, a redesign of the Socratic tutor's prompting system, and the backend test suite + CI (36 tests).
 
